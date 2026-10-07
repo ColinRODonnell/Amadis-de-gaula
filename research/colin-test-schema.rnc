@@ -1,0 +1,5 @@
+start = TEI
+TEI = element TEI {attribute xmlns {text}?, teiHeader, text}
+teiHeader = element teiHeader {fileDesc, encodingDesc?}
+fileDesc = element fileDesc {titleStmt, publicationStmt, sourceDesc}
+#This is all I got to so far, just messing around - CRO
