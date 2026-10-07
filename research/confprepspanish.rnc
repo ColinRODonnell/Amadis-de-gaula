@@ -1,0 +1,24 @@
+
+default namespace = ""
+
+namespace xml= "http://www.w3.org/XML/1998/namespace"
+
+start = conferencePreparation
+
+conferencePreparation =
+    element conferencePreparation {
+        attribute xml:lang { "es" }?,
+        element title { text },
+        element introduction { sectionContent },
+        element translationDebate { sectionContent },
+        element editorialStatement { sectionContent },
+        element projectFocus { sectionContent },
+        element teiMethod { sectionContent },
+        element pseudoMarkup { sectionContent },
+        element comparison { sectionContent },
+        element conclusion { sectionContent }
+    }
+
+sectionContent =
+    element heading { text },
+    element paragraph { text+ }+

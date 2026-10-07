@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conferencePreparation xml:lang="es">
+    <title>Preparación para la Conferencia sobre Amadís de Gaula</title>
+
+    <introduction>
+        <heading>Introducción: ¿Qué es Amadís?</heading>
+        <paragraph>
+            Amadís de Gaula es una obra medieval española que ha tenido una historia
+            textual compleja. Sus diferentes versiones no son simplemente traducciones
+            palabra por palabra. Los traductores y escritores también modificaron el
+            contenido para adaptarlo a sus propios idiomas y contextos culturales.
+        </paragraph>
+        <paragraph>
+            Por esta razón, el proceso puede entenderse como una mezcla de traducción
+            y adaptación creativa. En lugar de limitarse a copiar el significado
+            original, cada versión puede presentar cambios que afectan la forma en que
+            la historia es entendida por un nuevo público.
+        </paragraph>
+    </introduction>
+
+    <translationDebate>
+        <heading>El debate sobre la traducción</heading>
+        <paragraph>
+            Uno de los temas principales de nuestro proyecto es decidir si ciertos
+            cambios deben considerarse errores de traducción o adaptaciones culturales.
+            La teoría tradicional de la traducción no siempre explica completamente
+            estos cambios.
+        </paragraph>
+        <paragraph>
+            Nuestro análisis se acerca más a una traducción basada en el sentido que
+            a una traducción estrictamente palabra por palabra. También prestamos
+            atención a las partes que fueron eliminadas, añadidas o modificadas entre
+            las diferentes versiones.
+        </paragraph>
+    </translationDebate>
+
+    <editorialStatement>
+        <heading>Declaración editorial</heading>
+        <paragraph>
+            Presentaremos nuestra declaración editorial para explicar las decisiones
+            que tomamos durante el proyecto y las razones detrás de nuestras
+            elecciones de edición y marcado.
+        </paragraph>
+    </editorialStatement>
+
+    <projectFocus>
+        <heading>¿Por qué estudiar a Montalvo y Southey?</heading>
+        <paragraph>
+            Comparar a Montalvo con Southey permite observar cómo una obra puede cambiar
+            cuando pasa de un contexto cultural a otro. Nos interesa especialmente
+            estudiar las diferencias en la narración, las omisiones, las adiciones y
+            los cambios en la manera en que los personajes hablan.
+        </paragraph>
+        <paragraph>
+            También analizaremos cambios entre el discurso directo y el discurso
+            indirecto. Para mostrar estas diferencias, utilizaremos varios pasajes
+            importantes y compararemos las versiones una junto a la otra.
+        </paragraph>
+    </projectFocus>
+
+    <teiMethod>
+        <heading>Uso de la codificación TEI</heading>
+        <paragraph>
+            Utilizamos la codificación TEI para identificar y comparar diferentes
+            partes de los textos. El marcado nos permite estudiar cómo se relacionan
+            las versiones de Montalvo y Southey y observar los cambios realizados
+            durante el proceso de traducción o adaptación.
+        </paragraph>
+        <paragraph>
+            En el texto de Montalvo, organizamos ciertas unidades de manera que fuera
+            posible compararlas sin depender siempre de una estructura completamente
+            anidada. Esto fue útil porque algunas partes del texto no corresponden
+            exactamente a una sola cláusula o unidad gramatical.
+        </paragraph>
+        <paragraph>
+            También utilizamos identificadores XML diferentes para las distintas
+            unidades. Estos identificadores permiten localizar y conectar partes
+            específicas del texto durante nuestro análisis.
+        </paragraph>
+    </teiMethod>
+
+    <pseudoMarkup>
+        <heading>Identificación de estructuras en el texto</heading>
+        <paragraph>
+            Utilizamos marcas y ejemplos visuales para señalar posibles divisiones
+            entre unidades similares a cláusulas. Esto nos ayuda a explicar por qué
+            ciertas partes fueron seleccionadas para el análisis y cómo se relacionan
+            con las versiones traducidas.
+        </paragraph>
+    </pseudoMarkup>
+
+    <comparison>
+        <heading>Comparación visual</heading>
+        <paragraph>
+            Mostraremos el texto de Southey, el texto de Montalvo y el código TEI
+            correspondiente de manera conjunta. Esta comparación permitirá observar
+            directamente cómo los cambios entre las versiones pueden representarse
+            mediante marcado digital.
+        </paragraph>
+    </comparison>
+
+    <conclusion>
+        <heading>Conclusión</heading>
+        <paragraph>
+            En conjunto, nuestro proyecto utiliza la comparación textual y la
+            codificación TEI para estudiar la relación entre traducción y adaptación.
+            El objetivo es comprender no solamente qué partes cambiaron, sino también
+            cómo y por qué esos cambios modifican la presentación de la obra para
+            diferentes públicos.
+        </paragraph>
+    </conclusion>
+</conferencePreparation>
+
+
