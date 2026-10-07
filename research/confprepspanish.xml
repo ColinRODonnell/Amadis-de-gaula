@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="confprepspanish.rnc" type="application/relax-ng-compact-syntax"?>
 <conferencePreparation xml:lang="es">
     <title>Preparación para la Conferencia sobre Amadís de Gaula</title>
 
