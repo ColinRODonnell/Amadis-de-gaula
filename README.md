@@ -8,7 +8,7 @@ Some words and expressions that were common in the past have changed meaning, di
 <p align="center">
   <img src="https://m.media-amazon.com/images/I/81Nrdc05D4L._SL1500_.jpg" alt="Book Cover" width="400">
 </p>
-##Our Mission
+## Our Mission
 Logan & Colin plan to add onto @ebeshero's Amadis-in-Translation project, that she collaborated on with other professors. 
-We will continue to apply either **TEI** or **XML** markup to investigate early modern Spanish editions of Amadis de Gaula 
+We will continue to apply either **Amadís de Gaula** or **XML** markup to investigate early modern Spanish editions of Amadis de Gaula 
 and their translations into English from the 1500s to the early nineteenth century.
