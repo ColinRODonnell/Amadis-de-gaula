@@ -1,0 +1,19 @@
+XPath Notes - Colin O'Donnell
+#####################
+
+*Note* these are slightly different than XPath for XML. 
+
+Count paragraphs --> count(//*:p)
+in Southey_amadis_1803_2.xml it counts 10 <p>
+
+Finds Person Name --> //*:persName
+
+Finds Place Name --> //*:placeName
+
+Counts Starting "Anchors" --> count(//*:anchor[@ana="start"])
+Counts Ending "Anchors" --> count(//*:anchor[@ana="end"])
+
+If I think of any more I will put them here. 
+Most of these are specifically useful for me because
+I am taking a completely bare document and modeling it 
+from previous work. - CRO 
